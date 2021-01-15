@@ -1,5 +1,0 @@
-% Polymorphism:
-%{
->if the type of an input argument to afunction can very from one call to
-another, it is called a "polymorphic"
-%}
